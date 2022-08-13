@@ -1,6 +1,13 @@
 ## Category wise Work:
 
 <p>
+<a href="https://github.com/sayed-masud" target="_blank">
+  <img
+    alt="Home Page"
+    src="https://img.shields.io/static/v1?label=&message=Home Page&color=lightgrey&style=for-the-badge"
+  />
+</a>
+
 <a href="https://github.com/stars/sayed-masud/lists/featured-work" target="_blank">
   <img
     alt="Featured Work"
