@@ -1,4 +1,4 @@
-## Category-wise-Work
+## Category wise Work:
 
 <p>
 <a href="https://github.com/stars/sayed-masud/lists/featured-work" target="_blank">
