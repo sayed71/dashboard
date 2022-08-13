@@ -73,7 +73,7 @@
 </p>
 
 ---
-## Live Project:
+## Live Projects:
 
 ### E-Commerce:
 - PBS.COM.BD (https://pbs.com.bd)
