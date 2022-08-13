@@ -90,7 +90,7 @@
 ## LIVE PROJECTS:
 
 ### E-Commerce:
-- PBS.COM.BD (https://pbs.com.bd)
+- PBS Book Shop (https://pbs.com.bd)
 
 ### Website:
 - Panjeree (https://panjeree.com)
