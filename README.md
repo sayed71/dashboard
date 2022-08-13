@@ -29,7 +29,7 @@
 </p>
 
 
-## Technology:
+## TECHNOLOGY:
 <a href="https://github.com/stars/sayed-masud/lists/asp-net-webforms-c" target="_blank">
   <img
     alt="ASP.Net WebForms"
@@ -87,7 +87,7 @@
 </a>
 
 
-## Live Projects:
+## LIVE PROJECTS:
 
 ### E-Commerce:
 - PBS.COM.BD (https://pbs.com.bd)
