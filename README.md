@@ -20,10 +20,16 @@
     src="https://img.shields.io/static/v1?label=&message=Featured Work&color=blue&style=for-the-badge"
   />
 </a>
- <a href="https://youtu.be/ZO53KrVUCtM" target="_blank">
+<a href="https://youtu.be/ZO53KrVUCtM" target="_blank">
   <img
-    alt="Portfolio"
+    alt="Work Portfolio"
     src="https://img.shields.io/static/v1?label=&message=Work Portfolio&color=red&style=for-the-badge"
+  />
+</a>
+<a href="https://sayed-masud.github.io" target="_blank">
+  <img
+    alt="Portfolio Website"
+    src="https://img.shields.io/static/v1?label=&message=Portfolio Website&color=red&style=for-the-badge"
   />
 </a>
 </p>
