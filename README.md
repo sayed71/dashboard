@@ -4,8 +4,7 @@
 <!--![image](https://user-images.githubusercontent.com/83280369/189733150-78c27e57-1220-4516-829f-05693bfaf9a7.png)-->
 <!--![image](https://user-images.githubusercontent.com/83280369/189741798-c217ce9f-6e70-4367-9190-5e6ea993da9a.png)-->
 <!--![image](https://user-images.githubusercontent.com/83280369/189742389-80ba6fee-4c0e-4f79-96c3-d3f1e510bc44.png)-->
-![image](https://user-images.githubusercontent.com/83280369/189743160-882090b3-222b-4b85-aec7-5fc6a123625b.png)
-
+![image](https://user-images.githubusercontent.com/83280369/189743738-bc79a8f0-7903-45e8-9f51-cd3e10b514b3.png)
 
 
 <p>
@@ -17,8 +16,8 @@
 </a>
 <a href="https://pbs.com.bd" target="_blank">
   <img
-    alt="Last Project"
-    src="https://img.shields.io/static/v1?label=&message=Last Project&color=blue&style=for-the-badge"
+    alt="Last Dev. Project"
+    src="https://img.shields.io/static/v1?label=&message=Last Dev. Project&color=blue&style=for-the-badge"
   />
 </a>
 <a href="https://github.com/stars/sayed-masud/lists/featured-work" target="_blank">
