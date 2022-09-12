@@ -13,8 +13,8 @@
 </a>
 <a href="https://pbs.com.bd" target="_blank">
   <img
-    alt="Last Dev. Project"
-    src="https://img.shields.io/static/v1?label=&message=Last Dev. Project&color=blue&style=for-the-badge"
+    alt="Last Project"
+    src="https://img.shields.io/static/v1?label=&message=Last Project&color=blue&style=for-the-badge"
   />
 </a>
 <a href="https://github.com/stars/sayed-masud/lists/featured-work" target="_blank">
