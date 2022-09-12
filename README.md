@@ -110,6 +110,7 @@
 
 ### E-Commerce:
 - PBS Book Shop ( https://pbs.com.bd )
+- <a href="https://drive.google.com/file/d/1Y2vJyCiNTwOutDg9uIyax556pMedwVqL/view?usp=sharing">IT Bazer</a> (PHP, MySQL, JavaScript)
 
 ### Online ERP:
 - Panjeree Publications ( https://panjeree.org )
