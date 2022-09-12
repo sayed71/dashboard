@@ -100,9 +100,10 @@
 - PBS Book Shop (https://pbs.com.bd)
 
 ### Website:
-- Panjeree (https://panjeree.com)
-- Akkharpatra (https://akkharpatra.com)
-
+- Panjeree Publications (https://panjeree.com)
+- Akkharpatra Publications (https://akkharpatra.com)
+- Barotopa Printers (https://barotopa.com.bd)
+- Dursoon Publications (https://dursoon.com)
 
 ## Contact:
   
