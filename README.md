@@ -103,16 +103,21 @@
 ## Live Projects Demo:
 
 ### E-Commerce:
-- PBS Book Shop (https://pbs.com.bd)
+- PBS Book Shop ( https://pbs.com.bd )
 
 ### Online ERP:
-- Panjeree Publications (https://panjeree.org)
+- Panjeree Publications ( https://panjeree.org )
+
+### Hybrid Mobile Apps (Android WebView):
+- PATS (Panjeree Task Scheduler)  [ https://is.gd/XYQf6n ]
+- BUET8592 (BUET 85-92 Batch Club)  [ https://is.gd/ijiRam ]	
+- POLE (Panjeree Online Exam)  [ https://t.ly/5y2s ]
 
 ### Website:
-- Panjeree Publications (https://panjeree.com)
-- Akkharpatra Publications (https://akkharpatra.com)
-- Barotopa Printers (https://barotopa.com.bd)
-- Dursoon Publications (https://dursoon.com)
+- Panjeree Publications ( https://panjeree.com )
+- Akkharpatra Publications ( https://akkharpatra.com )
+- Barotopa Printers ( https://barotopa.com.bd )
+- Dursoon Publications ( https://dursoon.com )
 
 
 ## Contact:
