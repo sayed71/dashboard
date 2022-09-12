@@ -42,7 +42,7 @@
 </p>
 
 
-## Technology Wise Project:
+## Technology Wise Work:
 <a href="https://github.com/stars/sayed-masud/lists/asp-net-webforms-c" target="_blank">
   <img
     alt="ASP.Net WebForms"
