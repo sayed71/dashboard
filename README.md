@@ -1,7 +1,6 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsayed-masud%2FDashboard%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitor+Counter&edge_flat=false"/></a>
 ![image](https://user-images.githubusercontent.com/83280369/184509340-309fce57-769e-4773-9c25-32816243d678.png)
 
-![](https://hit.yhype.me/github/profile?user_id=83280369)
 
 <p>
  <a href="https://github.com/sayed-masud" target="_blank">
