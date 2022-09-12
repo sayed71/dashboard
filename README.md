@@ -36,7 +36,7 @@
 </p>
 
 
-## TECHNOLOGY:
+## Technology Wise Project:
 <a href="https://github.com/stars/sayed-masud/lists/asp-net-webforms-c" target="_blank">
   <img
     alt="ASP.Net WebForms"
@@ -94,7 +94,7 @@
 </a>
 
 
-## LIVE PROJECTS:
+## Live Projects:
 
 ### E-Commerce:
 - PBS Book Shop (https://pbs.com.bd)
