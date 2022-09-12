@@ -104,7 +104,7 @@
 - Akkharpatra (https://akkharpatra.com)
 
 
-## CONTACT:
+## Contact:
   
 <p>
 <a href="https://www.linkedin.com/in/sayedmasud/" target="_blank">
