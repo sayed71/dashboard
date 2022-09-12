@@ -99,6 +99,12 @@
   />
 </a>
 
+### GitHub Quick Link:
+<ul>
+<li><a href="https://github.com/stars/sayed-masud/lists/featured-work">Featured Work</a></li>
+<li><a href="https://github.com/sayed-masud?tab=repositories">GitHub Repositories</a></li>
+<li><a href="https://github.com/sayed-masud/profile">GitHub Profile</a></li>
+</ul>
 
 ## Live Projects Demo:
 
