@@ -58,10 +58,10 @@
   />
 </a>
 
-<a href="https://github.com/stars/sayed-masud/lists/javascript-jquery" target="_blank">
+<a href="https://github.com/stars/sayed-masud/lists/javascript-framework" target="_blank">
   <img
-    alt="jQuery"
-    src="https://img.shields.io/static/v1?label=&message=jQuery&color=9cf&style=for-the-badge"
+    alt="JavaScript"
+    src="https://img.shields.io/static/v1?label=&message=JavaScript&color=9cf&style=for-the-badge"
   />
 </a>
 
