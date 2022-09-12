@@ -101,6 +101,7 @@
 
 ### GitHub Quick Link:
 <ul>
+<li><strong><a style="color:red !important;" href="https://github.com/sayed-masud/Portfolio">GitHub Portfolio</a></strong></li>
 <li><a href="https://github.com/stars/sayed-masud/lists/featured-work">Featured Work</a></li>
 <li><a href="https://github.com/sayed-masud?tab=repositories">GitHub Repositories</a></li>
 <li><a href="https://github.com/sayed-masud/profile">GitHub Profile</a></li>
