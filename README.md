@@ -110,7 +110,7 @@
 
 ### Hybrid Mobile Apps (Android WebView):
 - PATS (Panjeree Task Scheduler)  [ https://is.gd/XYQf6n ]
-- BUET8592 (BUET 85-92 Batch Club)  [ https://is.gd/ijiRam ]	
+- BUET 8592 (BUET 85-92 Batch Club)  [ https://is.gd/ijiRam ]	
 - POLE (Panjeree Online Exam)  [ https://t.ly/5y2s ]
 
 ### Website:
