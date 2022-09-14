@@ -48,21 +48,21 @@
 
 
 ## Technology Wise Work:
-<a href="https://github.com/stars/sayed-masud/lists/asp-net-webforms-c" target="_blank">
+<a href="https://github.com/stars/sayed-masud/lists/asp.net-webforms" target="_blank">
   <img
     alt="ASP.Net WebForms"
     src="https://img.shields.io/static/v1?label=&message=ASP.Net WebForms&color=9cf&style=for-the-badge"
   />
 </a>
 
-<a href="https://github.com/stars/sayed-masud/lists/asp-net-core-c" target="_blank">
+<a href="https://github.com/stars/sayed-masud/lists/asp.net-core" target="_blank">
   <img
     alt="ASP.Net Core"
     src="https://img.shields.io/static/v1?label=&message=ASP.Net Core&color=9cf&style=for-the-badge"
   />
 </a>
 
-<a href="https://github.com/stars/sayed-masud/lists/php-php-framework" target="_blank">
+<a href="https://github.com/stars/sayed-masud/lists/php-related-work" target="_blank">
   <img
     alt="PHP"
     src="https://img.shields.io/static/v1?label=&message=PHP&color=9cf&style=for-the-badge"
@@ -83,14 +83,14 @@
   />
 </a>
 
-<a href="https://github.com/stars/sayed-masud/lists/database-ms-sql-server-mysql" target="_blank">
+<a href="https://github.com/stars/sayed-masud/lists/database-related-collection" target="_blank">
   <img
     alt="Database"
     src="https://img.shields.io/static/v1?label=&message=Database&color=9cf&style=for-the-badge"
   />
 </a>
 
-<a href="https://github.com/stars/sayed-masud/lists/desktop-application-winforms" target="_blank">
+<a href="https://github.com/stars/sayed-masud/lists/desktop-application" target="_blank">
   <img
     alt="Desktop Application"
     src="https://img.shields.io/static/v1?label=&message=Desktop Application&color=9cf&style=for-the-badge"
