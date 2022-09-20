@@ -1,4 +1,4 @@
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsayed-masud%2FDashboard%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitor+Counter&edge_flat=false"/></a>
+<!--<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsayed-masud%2FDashboard%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitor+Counter&edge_flat=false"/></a>-->
 
 <!--![image](https://user-images.githubusercontent.com/83280369/184509340-309fce57-769e-4773-9c25-32816243d678.png)-->
 <!--![image](https://user-images.githubusercontent.com/83280369/189733150-78c27e57-1220-4516-829f-05693bfaf9a7.png)-->
@@ -6,6 +6,8 @@
 <!--![image](https://user-images.githubusercontent.com/83280369/189742389-80ba6fee-4c0e-4f79-96c3-d3f1e510bc44.png)-->
 ![image](https://user-images.githubusercontent.com/83280369/189743738-bc79a8f0-7903-45e8-9f51-cd3e10b514b3.png)
 
+<a href="https://github.com/sayed-masud/github-readme-activity-graph"><img alt="Kazi Sayed Hossains's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sayed-masud&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<br/>
 
 <p>
  <a href="https://github.com/sayed-masud" target="_blank">
