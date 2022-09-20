@@ -4,7 +4,7 @@
 <!--![image](https://user-images.githubusercontent.com/83280369/189733150-78c27e57-1220-4516-829f-05693bfaf9a7.png)-->
 <!--![image](https://user-images.githubusercontent.com/83280369/189741798-c217ce9f-6e70-4367-9190-5e6ea993da9a.png)-->
 <!--![image](https://user-images.githubusercontent.com/83280369/189742389-80ba6fee-4c0e-4f79-96c3-d3f1e510bc44.png)-->
-![image](https://user-images.githubusercontent.com/83280369/189743738-bc79a8f0-7903-45e8-9f51-cd3e10b514b3.png)
+<!--![image](https://user-images.githubusercontent.com/83280369/189743738-bc79a8f0-7903-45e8-9f51-cd3e10b514b3.png)-->
 
 <a href="https://github.com/sayed-masud/github-readme-activity-graph"><img alt="Kazi Sayed Hossains's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sayed-masud&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
