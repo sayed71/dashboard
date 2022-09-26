@@ -129,6 +129,10 @@
 - BUET 8592 (BUET 85-92 Batch Club)  [ https://is.gd/ijiRam ]	
 - POLE (Panjeree Online Exam)  [ https://t.ly/5y2s ]
 
+### Web Design (PSD to HTML):
+ - E-commerce Design (PBS Book Shop: https://pbs.com.bd)
+ - Hybrid App Design (BUET 8592: https://is.gd/ijiRam)
+
 ### Website:
 - Panjeree Publications ( https://panjeree.com )
 - Akkharpatra Publications ( https://akkharpatra.com )
