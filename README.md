@@ -10,7 +10,7 @@
 <br/>
 
 <p>
- <a href="https://github.com/sayed-masud" target="_blank">
+ <a href="https://github.com/sayed71" target="_blank">
   <img
     alt="Home Page"
     src="https://img.shields.io/static/v1?label=&message=Home Page&color=lightgrey&style=for-the-badge"
@@ -157,4 +157,4 @@
 </a>
 </p>
 
-<p><< <a href="https://github.com/sayed2k7">Back to Home Page</a></p>
+<p><< <a href="https://github.com/sayed71">Back to Home Page</a></p>
