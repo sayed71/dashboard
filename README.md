@@ -50,7 +50,7 @@
 
 
 ## Technology Wise Work:
-<a href="https://github.com/stars/sayed-masud/lists/asp-net-webforms" target="_blank">
+<a href="https://github.com/stars/sayed71/lists/asp-net-webforms" target="_blank">
   <img
     alt="ASP.Net WebForms"
     src="https://img.shields.io/static/v1?label=&message=ASP.Net WebForms&color=9cf&style=for-the-badge"
