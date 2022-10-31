@@ -121,7 +121,7 @@
 ## Live Projects Demo:
 
 ### E-Commerce:
-- <a href="https://pbs.com.bd">PBS Book Shop</a> (ASP.Net Core C#, MS SQL Server, jQuery, Bootstrap)
+- <a href="https://pbs.com.bd">PBS Book Shop</a> (ASP.Net Core, MS SQL Server, JavaScript, jQuery, Bootstrap)
 - <a href="https://www.itwala.com.bd">IT WALA</a> (PHP, MySQL, JavaScript, Bootstrap)
 - <a href="https://docs.google.com/document/d/1e5Ldpbuz_2wG1B4pDjeUBQNIm6duIPQJ4RNAJk7uXLI/edit?usp=sharing">Mobile Mella</a> (PHP, MySQL, JavaScript)
 
