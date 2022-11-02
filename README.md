@@ -52,7 +52,7 @@
 </p>
 
 
-## Technology Wise Work:
+## Technology Wise Work
 <a href="https://github.com/stars/sayed71/lists/asp-net-webforms" target="_blank">
   <img
     alt="ASP.Net WebForms"
@@ -118,7 +118,7 @@
 <li><a href="https://github.com/sayed71/skills">My Skills</a></li>
 </ul>
 
-## Live Projects Demo:
+## Live Projects Demo
 
 ### E-Commerce:
 - <a href="https://pbs.com.bd">PBS Book Shop</a> (ASP.Net Core, MS SQL Server, JavaScript, jQuery, Bootstrap)
@@ -144,7 +144,7 @@
 - Dursoon Publications ( https://dursoon.com )
 
 
-## Contact:
+## Contact
   
 <p>
 <a href="https://www.linkedin.com/in/sayed71" target="_blank">
