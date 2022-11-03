@@ -139,9 +139,9 @@
  - Hybrid App Design (BUET 8592: https://is.gd/ijiRam)
 
 ### Website:
-- Panjeree Publications ( https://panjeree.com )
+- Panjeree Publications Ltd. ( https://panjeree.com )
 - Akkharpatra Publications ( https://akkharpatra.com )
-- Barotopa Printers ( https://barotopa.com.bd )
+- Barotopa Printers Ltd. ( https://barotopa.com.bd )
 - Dursoon Publications ( https://dursoon.com )
 
 
