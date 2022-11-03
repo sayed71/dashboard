@@ -116,6 +116,7 @@
 <li><a href="https://github.com/sayed71?tab=repositories">GitHub Repositories</a></li>
 <li><a href="https://github.com/sayed71/profile">GitHub Profile</a></li>
 <li><a href="https://github.com/sayed71/skills">My Skills</a></li>
+<li><a href="https://docs.google.com/document/d/13wP3EnLcJoOXS6QjNKWhxD4HvgG0ZzHmMTrVmuTnhPk/edit">Resume</a></li>
 </ul>
 
 ## Live Projects Demo
