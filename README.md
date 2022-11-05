@@ -111,12 +111,12 @@
 
 ### GitHub Quick Link:
 <ul>
-<li><strong><a style="color:red !important;" href="https://github.com/sayed71/portfolio">GitHub Portfolio</a></strong></li>
-<li><a href="https://github.com/stars/sayed71/lists/featured-work">Featured Work</a></li>
-<li><a href="https://github.com/sayed71?tab=repositories">GitHub Repositories</a></li>
 <li><a href="https://github.com/sayed71/profile">GitHub Profile</a></li>
+<li><strong><a style="color:red !important;" href="https://github.com/sayed71/portfolio">GitHub Portfolio</a></strong></li>
 <li><a href="https://github.com/sayed71/skills">My Skills</a></li>
 <li><a href="https://docs.google.com/document/d/13wP3EnLcJoOXS6QjNKWhxD4HvgG0ZzHmMTrVmuTnhPk/edit">Resume</a></li>
+<li><a href="https://github.com/stars/sayed71/lists/featured-work">Featured Work</a></li>
+<li><a href="https://github.com/sayed71?tab=repositories">GitHub Repositories</a></li>
 </ul>
 
 ## Live Projects Demo
